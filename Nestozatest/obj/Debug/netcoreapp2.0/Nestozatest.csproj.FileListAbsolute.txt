@@ -1,0 +1,10 @@
+c:\users\babish\source\repos\Nestozatest\Nestozatest\bin\Debug\netcoreapp2.0\Nestozatest.deps.json
+c:\users\babish\source\repos\Nestozatest\Nestozatest\bin\Debug\netcoreapp2.0\Nestozatest.runtimeconfig.json
+c:\users\babish\source\repos\Nestozatest\Nestozatest\bin\Debug\netcoreapp2.0\Nestozatest.runtimeconfig.dev.json
+c:\users\babish\source\repos\Nestozatest\Nestozatest\bin\Debug\netcoreapp2.0\Nestozatest.dll
+c:\users\babish\source\repos\Nestozatest\Nestozatest\bin\Debug\netcoreapp2.0\Nestozatest.pdb
+c:\users\babish\source\repos\Nestozatest\Nestozatest\obj\Debug\netcoreapp2.0\Nestozatest.csproj.CoreCompileInputs.cache
+c:\users\babish\source\repos\Nestozatest\Nestozatest\obj\Debug\netcoreapp2.0\Nestozatest.AssemblyInfoInputs.cache
+c:\users\babish\source\repos\Nestozatest\Nestozatest\obj\Debug\netcoreapp2.0\Nestozatest.AssemblyInfo.cs
+c:\users\babish\source\repos\Nestozatest\Nestozatest\obj\Debug\netcoreapp2.0\Nestozatest.dll
+c:\users\babish\source\repos\Nestozatest\Nestozatest\obj\Debug\netcoreapp2.0\Nestozatest.pdb
